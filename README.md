@@ -36,20 +36,6 @@
 
 ---
 
-### Roblox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Luau-Scripting-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox-Security-FF6B00?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Research-111111?style=for-the-badge&logo=roblox&logoColor=white" />
-</p>
-
-<p align="center">
-  Building Roblox scripts, tools and security-focused Luau projects.
-</p>
-
----
-
 ### Tech Stack
 
 <p align="center">
