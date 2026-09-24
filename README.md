@@ -4,9 +4,6 @@
 
 Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 <table>
-<td align="center">
-</td>
-  </tr>
   <tr>
     <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
