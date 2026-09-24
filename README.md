@@ -9,7 +9,6 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <td align="center">
 </td>
 <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
   </tr>
   <tr>
