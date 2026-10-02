@@ -3,7 +3,8 @@
 ---
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://anuraghazra.com" alt="GitHub Stats" height="150" />
+<img src="https://herokuapp.com" alt="GitHub Streak" height="150" />
+
 </p>
 ---
 
