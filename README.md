@@ -3,8 +3,8 @@
 ---
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://vercel.app" alt="slxzerxs's GitHub stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
+  <img src="https://anuraghazra.com" alt="slxzerxs's GitHub stats" height="150" />
+  <img src="https://anuraghazra.com" alt="Top Languages" height="150" />
 </p>
 ---
 
