@@ -4,8 +4,10 @@
 ---
 
 ### 🕹️ Skills & Stack
+<div align="center">
  **Roblox & Game Dev:
  (Luau / Lua · Game Scripting & Architecture)
+</div>
  **Security:
  Pentesting · (Web & Network Security · CTF · Anti-Cheat)
  **Languages:
