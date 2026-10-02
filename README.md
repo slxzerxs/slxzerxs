@@ -3,10 +3,10 @@
 ---
 
 ### 🕹️ Skills & Stack
-* **Roblox & Game Dev:** Luau / Lua · Game Scripting & Architecture
-* **Security:** Pentesting · Web & Network Security · CTF · Anti-Cheat
-* **Languages:** Luau · Lua
-* **OS:**  Arch · Kali
+* **Roblox & Game Dev:** (Luau / Lua · Game Scripting & Architecture)
+* **Security:** Pentesting · (Web & Network Security · CTF · Anti-Cheat)
+* **Languages:** (Luau · Lua)
+* **OS:**  (Arch · Kali)
 ---
 
 ### 🛠️ Tools
