@@ -3,8 +3,7 @@
 ---
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://herokuapp.com" alt="GitHub Streak" height="150" />
-
+<img src="https://vercel.app" alt="GitHub Stats" height="150" />
 </p>
 ---
 
