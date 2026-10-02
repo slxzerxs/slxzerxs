@@ -1,10 +1,5 @@
+<div align="center">
 ### 🎮 Roblox Developer · Luau/Lua · Security Researcher
-
----
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://vercel.app" alt="GitHub Stats" height="150" />
-</p>
 ---
 
 ### 🕹️ Skills & Stack
@@ -22,3 +17,4 @@
 ### 🎯 Focus
 * Game Scripting
 * Security Research & Pentesting
+</div>
