@@ -6,7 +6,7 @@
 * **Roblox & Game Dev:** Luau / Lua · Game Scripting & Architecture
 * **Security:** Pentesting · Web & Network Security · CTF · Anti-Cheat
 * **Languages:** Luau · Lua
-* **OS:** Linux (Arch · Kali )
+* **OS:**  Arch · Kali
 ---
 
 ### 🛠️ Tools
