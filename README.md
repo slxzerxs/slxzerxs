@@ -16,7 +16,7 @@ Pentesting · Web & Network Security · CTF · Anti-Cheat
 Luau · Lua
 
 **OS**
-Arch · Kali
+Arch · Kali · CachyOS
 
 ---
 
